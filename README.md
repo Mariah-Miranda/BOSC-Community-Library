@@ -4,7 +4,6 @@ A modern, production-quality React web application for a community-run library.
 Borrow books, RSVP to events, build your reading list, donate titles, and write
 reviews — all in a beautifully designed, responsive interface.
 
-![BIOSC Community Library](public/favicon.svg)
 
 ## ✨ Features
 
