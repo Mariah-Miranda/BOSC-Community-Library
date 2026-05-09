@@ -1,0 +1,171 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html.dark {
+    color-scheme: dark;
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-ink-50 text-ink-900 antialiased font-sans;
+    font-feature-settings: 'cv11', 'ss01', 'ss03';
+  }
+
+  html.dark body {
+    @apply bg-ink-950 text-ink-100;
+  }
+
+  ::selection {
+    @apply bg-brand-200 text-brand-900;
+  }
+
+  html.dark ::selection {
+    @apply bg-brand-700 text-brand-50;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-ink-300 rounded-full;
+  }
+  html.dark ::-webkit-scrollbar-thumb {
+    @apply bg-ink-700;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-ink-400;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .card {
+    @apply rounded-2xl bg-white border border-ink-200/70 shadow-soft transition-colors;
+  }
+  html.dark .card {
+    @apply bg-ink-900 border-ink-800;
+  }
+
+  .surface {
+    @apply bg-white border border-ink-200/70;
+  }
+  html.dark .surface {
+    @apply bg-ink-900 border-ink-800;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold
+      transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed
+      focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-500
+      focus-visible:ring-offset-2 focus-visible:ring-offset-ink-50;
+  }
+  html.dark .btn {
+    @apply focus-visible:ring-offset-ink-950;
+  }
+
+  .btn-primary {
+    @apply btn bg-brand-600 text-white hover:bg-brand-700 active:bg-brand-800 shadow-glow;
+  }
+
+  .btn-secondary {
+    @apply btn bg-ink-100 text-ink-900 hover:bg-ink-200;
+  }
+  html.dark .btn-secondary {
+    @apply bg-ink-800 text-ink-100 hover:bg-ink-700;
+  }
+
+  .btn-ghost {
+    @apply btn bg-transparent text-ink-700 hover:bg-ink-100;
+  }
+  html.dark .btn-ghost {
+    @apply text-ink-300 hover:bg-ink-800;
+  }
+
+  .btn-outline {
+    @apply btn bg-transparent border border-ink-300 text-ink-800 hover:bg-ink-50;
+  }
+  html.dark .btn-outline {
+    @apply border-ink-700 text-ink-200 hover:bg-ink-900;
+  }
+
+  .input {
+    @apply w-full rounded-xl border border-ink-300 bg-white px-4 py-2.5 text-sm
+      text-ink-900 placeholder:text-ink-400
+      focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent
+      transition-all duration-200;
+  }
+  html.dark .input {
+    @apply bg-ink-900 border-ink-700 text-ink-100 placeholder:text-ink-500;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium
+      bg-ink-100 text-ink-700 transition-colors;
+  }
+  html.dark .chip {
+    @apply bg-ink-800 text-ink-300;
+  }
+
+  .chip-active {
+    @apply bg-brand-600 text-white hover:bg-brand-700;
+  }
+
+  .link {
+    @apply text-brand-700 hover:text-brand-800 font-medium underline-offset-4 hover:underline;
+  }
+  html.dark .link {
+    @apply text-brand-400 hover:text-brand-300;
+  }
+
+  .label {
+    @apply block text-sm font-semibold text-ink-800 mb-1.5;
+  }
+  html.dark .label {
+    @apply text-ink-200;
+  }
+
+  .heading-serif {
+    font-family: 'Fraunces', Georgia, serif;
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer utilities {
+  .gradient-text {
+    @apply bg-gradient-to-br from-brand-700 via-brand-500 to-accent-500 bg-clip-text text-transparent;
+  }
+
+  .grid-bg {
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(22, 163, 74, 0.12) 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+
+  html.dark .grid-bg {
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(74, 222, 135, 0.1) 1px, transparent 0);
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+}
