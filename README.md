@@ -2,7 +2,6 @@
 
 BOSC Community Library is a public-sector, open educational resource repository and demonstration library application. It helps communities discover free learning materials, document licensing status, and coordinate contributions in a transparent open-source workflow.
 
-![BOSC Community Library](public/favicon.svg)
 
 ## Table of Contents
 
