@@ -22,7 +22,7 @@ git checkout -b feature/your-feature-name
 
 ### Reporting Bugs
 
-Search existing issues first. If the problem has not been reported, use the bug report template in [.github/ISSUE_TEMPLATE/bug_report.md](../.github/ISSUE_TEMPLATE/bug_report.md) and include clear reproduction steps.
+Search existing issues first. If the problem has not been reported, use the bug report template in [.github/ISSUE_TEMPLATE/bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md) and include clear reproduction steps.
 
 ### Suggesting Features
 
@@ -37,7 +37,7 @@ New educational resources should follow the schema in [RESOURCE_DATABASE.md](RES
 1. Keep the pull request focused on one issue.
 2. Update documentation when behavior, governance, links, or resource data changes.
 3. Link the related issue using `Closes #issue-number`.
-4. Complete the pull request template in [.github/pull_request_template.md](../.github/pull_request_template.md).
+4. Complete the pull request template in [.github/pull_request_template.md](.github/pull_request_template.md).
 
 ## Standards
 

@@ -2,21 +2,21 @@
 
 Use this file as a portfolio checklist when preparing the final university
 submission. Replace each placeholder with the required screenshot or link.
-Recommended evidence format: PNG or PDF, stored under `docs/screenshots/` and
+Recommended evidence format: PNG or PDF, stored under `screenshots/` and
 referenced with relative Markdown links such as
-`![Commit history](docs/screenshots/01-commit-history.png)`.
+`![Commit history](screenshots/01-commit-history.png)`.
 
 ## Repository Information
 
 - Repository name: `BOSC-Community-Library`
 - License: GNU General Public License v3.0
 - Main documentation: [README.md](README.md)
-- Legal analysis: [docs/LEGAL_ANALYSIS.md](docs/LEGAL_ANALYSIS.md)
-- Sustainability strategy: [docs/SUSTAINABILITY.md](docs/SUSTAINABILITY.md)
-- Government pitch: [docs/GOVERNMENT_PITCH.md](docs/GOVERNMENT_PITCH.md)
-- Project governance: [docs/GOVERNANCE.md](docs/GOVERNANCE.md)
+- Legal analysis: [LEGAL_ANALYSIS.md](LEGAL_ANALYSIS.md)
+- Sustainability strategy: [SUSTAINABILITY.md](SUSTAINABILITY.md)
+- Government pitch: [GOVERNMENT_PITCH.md](GOVERNMENT_PITCH.md)
+- Project governance: [GOVERNANCE.md](GOVERNANCE.md)
 - Security policy: [SECURITY.md](SECURITY.md)
-- Five-issue portfolio: [docs/ISSUES_AND_PULL_REQUESTS.md](docs/ISSUES_AND_PULL_REQUESTS.md)
+- Five-issue portfolio: [ISSUES_AND_PULL_REQUESTS.md](ISSUES_AND_PULL_REQUESTS.md)
 
 ## Git Activity Screenshots
 
@@ -26,15 +26,15 @@ referenced with relative Markdown links such as
 
 ### Screenshot 1: Commit History (`git log` or GitHub `Commits` tab)
 
-`docs/screenshots/01-commit-history.png` *(placeholder — replace with image)*
+`screenshots/01-commit-history.png` *(placeholder — replace with image)*
 
 ### Screenshot 2: Branches Used for Issues (GitHub `Branches` tab)
 
-`docs/screenshots/02-branches.png` *(placeholder — replace with image)*
+`screenshots/02-branches.png` *(placeholder — replace with image)*
 
 ### Screenshot 3: Pull Request List (GitHub `Pull requests` tab, filter `is:closed`)
 
-`docs/screenshots/03-pull-requests.png` *(placeholder — replace with image)*
+`screenshots/03-pull-requests.png` *(placeholder — replace with image)*
 
 ## Resolved Issues Screenshots
 
@@ -43,31 +43,31 @@ referenced with relative Markdown links such as
 
 ### Issue 1: Broken Resource Links
 
-`docs/screenshots/issue-01-broken-links.png` *(placeholder)*
+`screenshots/issue-01-broken-links.png` *(placeholder)*
 
 ### Issue 2: README Navigation
 
-`docs/screenshots/issue-02-readme-navigation.png` *(placeholder)*
+`screenshots/issue-02-readme-navigation.png` *(placeholder)*
 
 ### Issue 3: Localized Language Support
 
-`docs/screenshots/issue-03-languages.png` *(placeholder)*
+`screenshots/issue-03-languages.png` *(placeholder)*
 
 ### Issue 4: Searchable Resource Database
 
-`docs/screenshots/issue-04-resource-database.png` *(placeholder)*
+`screenshots/issue-04-resource-database.png` *(placeholder)*
 
 ### Issue 5: Repository Organization
 
-`docs/screenshots/issue-05-docs-refactor.png` *(placeholder)*
+`screenshots/issue-05-docs-refactor.png` *(placeholder)*
 
 ### Issue 6 (Bonus): React Runtime Hardening
 
-`docs/screenshots/issue-06-react-fixes.png` *(placeholder)*
+`screenshots/issue-06-react-fixes.png` *(placeholder)*
 
 ## GitHub Contributions Graph
 
-`docs/screenshots/contribution-graph.png` *(placeholder — capture from your
+`screenshots/contribution-graph.png` *(placeholder — capture from your
 profile page once commits are distributed across multiple days)*
 
 ## Reflective Journal

@@ -33,7 +33,7 @@ List the files, folders, or systems affected. Be explicit about what is
 - [ ] No user-facing functionality is removed.
 - [ ] Internal links, imports, and templates are updated consistently.
 - [ ] `npm run build` succeeds.
-- [ ] Governance files (`docs/CONTRIBUTING.md`, `docs/CODE_OF_CONDUCT.md`,
+- [ ] Governance files (`CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`,
       `.github/` templates) still resolve.
 - [ ] `CHANGELOG.md` updated under the appropriate section.
 

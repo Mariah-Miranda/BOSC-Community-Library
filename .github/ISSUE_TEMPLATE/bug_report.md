@@ -8,7 +8,7 @@ assignees: ""
 
 ## Description
 
-Describe the problem clearly. If it affects a documentation file, link to the file under `docs/` or the relevant root file.
+Describe the problem clearly. If it affects a documentation file, link to the file at the repository root or the relevant source file.
 
 ## Steps to Reproduce
 
@@ -27,7 +27,7 @@ What actually happened?
 ## Affected Files or Pages
 
 - Example: `README.md`
-- Example: `docs/RESOURCE_DATABASE.md`
+- Example: `RESOURCE_DATABASE.md`
 
 ## Environment
 

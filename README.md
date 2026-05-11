@@ -33,16 +33,16 @@ The following links are verified starting points for community learning collecti
 
 ## Documentation
 
-- [Contributing Guide](docs/CONTRIBUTING.md)
-- [Code of Conduct](docs/CODE_OF_CONDUCT.md)
-- [Project Governance](docs/GOVERNANCE.md)
+- [Contributing Guide](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Project Governance](GOVERNANCE.md)
 - [Security and Responsible Disclosure](SECURITY.md)
-- [Legal Analysis](docs/LEGAL_ANALYSIS.md)
-- [Language Support Catalog](docs/LANGUAGES.md)
-- [Resource Database](docs/RESOURCE_DATABASE.md)
-- [Issue and Pull Request Portfolio](docs/ISSUES_AND_PULL_REQUESTS.md)
-- [Sustainability Strategy](docs/SUSTAINABILITY.md)
-- [Government Adoption Pitch](docs/GOVERNMENT_PITCH.md)
+- [Legal Analysis](LEGAL_ANALYSIS.md)
+- [Language Support Catalog](LANGUAGES.md)
+- [Resource Database](RESOURCE_DATABASE.md)
+- [Issue and Pull Request Portfolio](ISSUES_AND_PULL_REQUESTS.md)
+- [Sustainability Strategy](SUSTAINABILITY.md)
+- [Government Adoption Pitch](GOVERNMENT_PITCH.md)
 - [Changelog](CHANGELOG.md)
 - [Submission Log](SUBMISSION_LOG.md)
 
@@ -89,16 +89,6 @@ npm run preview
     refactor.md
     config.yml
   pull_request_template.md
-docs/
-  CODE_OF_CONDUCT.md
-  CONTRIBUTING.md
-  GOVERNANCE.md
-  GOVERNMENT_PITCH.md
-  ISSUES_AND_PULL_REQUESTS.md
-  LANGUAGES.md
-  LEGAL_ANALYSIS.md
-  RESOURCE_DATABASE.md
-  SUSTAINABILITY.md
 public/
 src/
   components/
@@ -107,10 +97,19 @@ src/
   pages/
   utils/
 CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+GOVERNANCE.md
+GOVERNMENT_PITCH.md
+ISSUES_AND_PULL_REQUESTS.md
+LANGUAGES.md
+LEGAL_ANALYSIS.md
 LICENSE
 README.md
+RESOURCE_DATABASE.md
 SECURITY.md
 SUBMISSION_LOG.md
+SUSTAINABILITY.md
 ```
 
 ## Demo Accounts

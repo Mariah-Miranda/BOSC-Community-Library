@@ -14,7 +14,7 @@ public-sector administrators, accessibility users, or specific language communit
 ## Problem
 
 Describe the gap or limitation in the project today. If this affects a document
-or page, link to it under `docs/`, `src/`, or the relevant root file.
+or page, link to it at the repository root, under `src/`, or under `.github/`.
 
 ## Proposed Solution
 
@@ -31,7 +31,7 @@ What other approaches did you consider, and why was this one chosen?
 ## Acceptance Criteria
 
 - [ ] Clear definition of done.
-- [ ] Documentation updated (`README.md`, `docs/` files, or templates as relevant).
+- [ ] Documentation updated (`README.md`, root-level governance docs, or templates as relevant).
 - [ ] Existing tests / build still pass (`npm run build`).
 - [ ] No regressions to existing public-sector content or governance documents.
 

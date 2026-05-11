@@ -48,7 +48,7 @@ The community resource index contains placeholder or unreliable links that could
 > replacements were verified, even informally?
 >
 > **@maintainer** — Good call. The README will stay concise, but I will add a
-> `Last Verified` column in `docs/RESOURCE_DATABASE.md` so we have an audit
+> `Last Verified` column in `RESOURCE_DATABASE.md` so we have an audit
 > trail. The README itself can stay as a friendly index.
 >
 > **@curriculum-lead** — Please prioritize Khan Academy, OpenStax, and PhET as
@@ -59,7 +59,7 @@ The community resource index contains placeholder or unreliable links that could
 
 **Actual file changes made:**
 
-- Updated [README.md](../README.md) with a `Community Resource Index` table.
+- Updated [README.md](README.md) with a `Community Resource Index` table.
 - Added verified URLs for Khan Academy, MIT OpenCourseWare, African Storybook, OpenStax, and PhET.
 
 **Pull request description:**
@@ -111,9 +111,9 @@ The README is the main entry point for students, contributors, and reviewers, bu
 
 **Actual file changes made:**
 
-- Rewrote [README.md](../README.md) with a functional Table of Contents.
+- Rewrote [README.md](README.md) with a functional Table of Contents.
 - Standardized headings including `Project Overview`, `Community Resource Index`, `Documentation`, and `License`.
-- Updated documentation links to the new `docs/` paths.
+- Updated documentation links to the consolidated repository paths.
 
 **Pull request description:**
 
@@ -141,7 +141,7 @@ BOSC serves a diverse public education audience. The repository should document 
 
 ### Acceptance Criteria
 
-- Create `docs/LANGUAGES.md`.
+- Create `LANGUAGES.md`.
 - Include English, Swahili, French, and Arabic.
 - Add at least 8 entries.
 - Each entry must include language, resource title, URL, and license type.
@@ -158,7 +158,7 @@ BOSC serves a diverse public education audience. The repository should document 
 >
 > **@maintainer** — Acknowledged. The table will carry a license column and a
 > footnote about per-item variation. I will also reference the language file
-> from `docs/RESOURCE_DATABASE.md` so contributors only learn one schema.
+> from `RESOURCE_DATABASE.md` so contributors only learn one schema.
 >
 > **@curriculum-lead** — Could you add a maintenance note encouraging
 > contributors to verify each link annually? Public-sector adoption depends on
@@ -168,7 +168,7 @@ BOSC serves a diverse public education audience. The repository should document 
 
 **Actual file changes made:**
 
-- Added [docs/LANGUAGES.md](LANGUAGES.md) with 8 multilingual entries.
+- Added [LANGUAGES.md](LANGUAGES.md) with 8 multilingual entries.
 - Added a README documentation link to the language catalog.
 
 **Pull request description:**
@@ -197,7 +197,7 @@ The project needs a structured resource database so contributors can add educati
 
 ### Acceptance Criteria
 
-- Create `docs/RESOURCE_DATABASE.md`.
+- Create `RESOURCE_DATABASE.md`.
 - Use the required columns: `Resource Name`, `Category`, `Language`, `License`, `URL`, `Last Verified`.
 - Add at least 12 real open educational resources.
 - Include contributor instructions for adding entries.
@@ -220,15 +220,15 @@ The project needs a structured resource database so contributors can add educati
 > consider splitting by category or adding anchor links. For now 12 entries is
 > manageable.
 >
-> **@maintainer** — Filed a follow-up note in `docs/SUSTAINABILITY.md` about an
+> **@maintainer** — Filed a follow-up note in `SUSTAINABILITY.md` about an
 > eventual scheduled review issue. Opening
 > `feature/resource-database` now.
 
 **Actual file changes made:**
 
-- Added [docs/RESOURCE_DATABASE.md](RESOURCE_DATABASE.md) with 12 resource entries.
+- Added [RESOURCE_DATABASE.md](RESOURCE_DATABASE.md) with 12 resource entries.
 - Added schema and contributor instructions.
-- Linked the database from [README.md](../README.md).
+- Linked the database from [README.md](README.md).
 
 **Pull request description:**
 
@@ -241,6 +241,12 @@ This PR introduces a searchable Markdown resource database with 12 open educatio
 The schema is practical and easy for non-technical contributors to follow. For future work, we may want to add an automated link checker or a scheduled review issue every semester.
 
 ## Issue 5: Refactoring/Maintenance - Repository File Organization
+
+> **Status note (later update):** the documentation was subsequently flattened
+> back into the repository root for easier discovery on GitHub. The branch and
+> PR described below remain in the project history as the original refactor
+> evidence; the current canonical layout keeps every Markdown governance file
+> at the root.
 
 **Branch:** `refactor/documentation-organization`
 
@@ -285,8 +291,8 @@ The repository has grown beyond the original README and governance files. Docume
 
 - Moved `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` into [docs/](.).
 - Added legal, language, resource, sustainability, and government pitch documents under [docs/](.).
-- Added [CHANGELOG.md](../CHANGELOG.md).
-- Updated [README.md](../README.md), [.github/ISSUE_TEMPLATE/bug_report.md](../.github/ISSUE_TEMPLATE/bug_report.md), and [.github/pull_request_template.md](../.github/pull_request_template.md).
+- Added [CHANGELOG.md](CHANGELOG.md).
+- Updated [README.md](README.md), [.github/ISSUE_TEMPLATE/bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), and [.github/pull_request_template.md](.github/pull_request_template.md).
 
 **Pull request description:**
 
@@ -363,17 +369,17 @@ Three runtime issues affect the React community library application:
 
 **Actual file changes made:**
 
-- Updated [src/pages/Profile.jsx](../src/pages/Profile.jsx) to move
+- Updated [src/pages/Profile.jsx](src/pages/Profile.jsx) to move
   `useMemo` calls above the unauthenticated redirect and guard the user
   filter.
-- Updated [src/components/Layout/Layout.jsx](../src/components/Layout/Layout.jsx)
+- Updated [src/components/Layout/Layout.jsx](src/components/Layout/Layout.jsx)
   to use `window.scrollTo(0, 0)` for snappy, universal route transitions.
-- Updated [src/components/Layout/Navbar.jsx](../src/components/Layout/Navbar.jsx)
+- Updated [src/components/Layout/Navbar.jsx](src/components/Layout/Navbar.jsx)
   to compute `borrowedCount` per signed-in user.
-- Updated [src/components/Books/BookCard.jsx](../src/components/Books/BookCard.jsx),
-  [src/pages/Browse.jsx](../src/pages/Browse.jsx), and
-  [src/pages/Home.jsx](../src/pages/Home.jsx) to remove dead imports.
-- Updated [vite.config.js](../vite.config.js) to stop auto-opening a browser
+- Updated [src/components/Books/BookCard.jsx](src/components/Books/BookCard.jsx),
+  [src/pages/Browse.jsx](src/pages/Browse.jsx), and
+  [src/pages/Home.jsx](src/pages/Home.jsx) to remove dead imports.
+- Updated [vite.config.js](vite.config.js) to stop auto-opening a browser
   on `npm run dev` and to expose the LAN host for testing on classroom
   devices.
 

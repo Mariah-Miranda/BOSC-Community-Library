@@ -2,7 +2,7 @@
 #
 # This file defines who is automatically requested for review when a pull
 # request touches specific paths. It is a governance signal, not a hard lock:
-# any maintainer listed in docs/GOVERNANCE.md may approve a PR.
+# any maintainer listed in GOVERNANCE.md may approve a PR.
 #
 # Replace the placeholder @Mariah-Miranda handle with the active maintainer
 # accounts once the project is transferred to its long-term GitHub home.
@@ -22,17 +22,17 @@
 # Governance and policy documents — protect these behind explicit review.
 /LICENSE                        @Mariah-Miranda
 /SECURITY.md                    @Mariah-Miranda
-/docs/CODE_OF_CONDUCT.md        @Mariah-Miranda
-/docs/CONTRIBUTING.md           @Mariah-Miranda
-/docs/GOVERNANCE.md             @Mariah-Miranda
-/docs/LEGAL_ANALYSIS.md         @Mariah-Miranda
-/docs/SUSTAINABILITY.md         @Mariah-Miranda
-/docs/GOVERNMENT_PITCH.md       @Mariah-Miranda
+/CODE_OF_CONDUCT.md             @Mariah-Miranda
+/CONTRIBUTING.md                @Mariah-Miranda
+/GOVERNANCE.md                  @Mariah-Miranda
+/LEGAL_ANALYSIS.md              @Mariah-Miranda
+/SUSTAINABILITY.md              @Mariah-Miranda
+/GOVERNMENT_PITCH.md            @Mariah-Miranda
 
 # Resource and language catalogs — these are the curatorial heart of the
 # project. PRs touching them benefit from a curriculum or librarian review.
-/docs/LANGUAGES.md              @Mariah-Miranda
-/docs/RESOURCE_DATABASE.md      @Mariah-Miranda
+/LANGUAGES.md                   @Mariah-Miranda
+/RESOURCE_DATABASE.md           @Mariah-Miranda
 
 # Issue and PR scaffolding.
 /.github/                       @Mariah-Miranda

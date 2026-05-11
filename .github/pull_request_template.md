@@ -16,7 +16,7 @@ Closes #(issue number)
 ## Documentation Checklist
 
 - [ ] I updated `README.md` if navigation or public-facing project information changed.
-- [ ] I updated files under `docs/` if governance, resources, licensing, or contributor guidance changed.
+- [ ] I updated the relevant root-level governance file (CONTRIBUTING, CODE_OF_CONDUCT, GOVERNANCE, LEGAL_ANALYSIS, SUSTAINABILITY, GOVERNMENT_PITCH, LANGUAGES, RESOURCE_DATABASE) if governance, resources, licensing, or contributor guidance changed.
 - [ ] I checked internal links after moving or renaming files.
 
 ## Testing or Review Performed
@@ -25,6 +25,6 @@ Describe the commands run, links checked, or manual review completed.
 
 ## Contributor Checklist
 
-- [ ] My changes follow the project's contribution guidance in `docs/CONTRIBUTING.md`.
-- [ ] My changes respect the Code of Conduct in `docs/CODE_OF_CONDUCT.md`.
+- [ ] My changes follow the project's contribution guidance in `CONTRIBUTING.md`.
+- [ ] My changes respect the Code of Conduct in `CODE_OF_CONDUCT.md`.
 - [ ] Resource entries include stable URLs and license information where applicable.

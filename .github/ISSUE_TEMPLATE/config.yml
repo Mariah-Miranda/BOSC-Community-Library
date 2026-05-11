@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: Contribution Guide
-    url: https://github.com/Mariah-Miranda/BOSC-Community-Library/blob/main/docs/CONTRIBUTING.md
+    url: https://github.com/Mariah-Miranda/BOSC-Community-Library/blob/main/CONTRIBUTING.md
     about: Read the contributor guide before opening a new issue.
   - name: Code of Conduct
-    url: https://github.com/Mariah-Miranda/BOSC-Community-Library/blob/main/docs/CODE_OF_CONDUCT.md
+    url: https://github.com/Mariah-Miranda/BOSC-Community-Library/blob/main/CODE_OF_CONDUCT.md
     about: All participants are expected to follow the Contributor Covenant.
   - name: Security Disclosure
     url: https://github.com/Mariah-Miranda/BOSC-Community-Library/blob/main/SECURITY.md

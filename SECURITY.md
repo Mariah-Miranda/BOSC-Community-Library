@@ -10,7 +10,7 @@ problems responsibly.
 This policy covers:
 
 - The React application in `src/` and its build configuration.
-- The documentation and resource catalogs in `docs/`.
+- The documentation and resource catalogs at the repository root (`CONTRIBUTING.md`, `GOVERNANCE.md`, `RESOURCE_DATABASE.md`, etc.).
 - The contributor templates in `.github/`.
 - Any third-party resource link added to the catalog that turns out to be
   malicious, misleading, or licensed in a way the project cannot honor.
