@@ -1,25 +1,39 @@
-
+---
 name: Bug Report
 about: Report a problem or unexpected behavior
 title: "[BUG] "
 labels: bug
-assignees: ''
-
+assignees: ""
+---
 
 ## Description
-A clear description of the bug.
+
+Describe the problem clearly. If it affects a documentation file, link to the file under `docs/` or the relevant root file.
 
 ## Steps to Reproduce
-1. Go to '...'
-2. Do '...'
+
+1. Go to `...`
+2. Do `...`
 3. See error
 
 ## Expected Behavior
-What you expected to happen.
+
+What did you expect to happen?
 
 ## Actual Behavior
-What actually happened.
+
+What actually happened?
+
+## Affected Files or Pages
+
+- Example: `README.md`
+- Example: `docs/RESOURCE_DATABASE.md`
 
 ## Environment
+
 - OS:
-- Browser/Tool version:
+- Browser or tool version:
+
+## Additional Context
+
+Add screenshots, links, or notes that would help a maintainer review the issue.
