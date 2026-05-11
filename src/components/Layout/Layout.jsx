@@ -8,7 +8,9 @@ export default function Layout() {
   const { pathname } = useLocation()
 
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: 'instant' })
+    // 'instant' is not supported by every browser; a plain (x, y) call jumps
+    // to top without animation everywhere, keeping route changes snappy.
+    window.scrollTo(0, 0)
   }, [pathname])
 
   return (

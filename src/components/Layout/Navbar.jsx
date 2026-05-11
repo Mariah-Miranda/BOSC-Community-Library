@@ -60,7 +60,9 @@ export default function Navbar() {
     }
   }
 
-  const borrowedCount = Object.keys(borrows).length
+  const borrowedCount = user
+    ? Object.values(borrows).filter((b) => b.userId === user.id).length
+    : 0
 
   return (
     <header className="sticky top-0 z-40 border-b border-ink-200/70 bg-white/80 backdrop-blur-xl dark:border-ink-800 dark:bg-ink-950/80">

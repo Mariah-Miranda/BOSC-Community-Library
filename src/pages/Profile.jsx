@@ -28,15 +28,15 @@ export default function Profile() {
   const [params, setParams] = useSearchParams()
   const tab = params.get('tab') || 'borrowed'
 
-  if (!user) return <Navigate to="/login" replace />
-
+  // NOTE: all hooks must run on every render (rules of hooks), so the
+  // unauthenticated redirect lives below the memoized values.
   const myBorrows = useMemo(
     () =>
       Object.values(borrows)
-        .filter((b) => b.userId === user.id)
+        .filter((b) => user && b.userId === user.id)
         .map((b) => ({ ...b, book: books.find((x) => x.id === b.bookId) }))
         .filter((b) => b.book),
-    [borrows, books, user.id],
+    [borrows, books, user],
   )
 
   const wishlistBooks = useMemo(
@@ -48,6 +48,8 @@ export default function Profile() {
     () => allEvents.filter((e) => rsvps.includes(e.id)),
     [rsvps],
   )
+
+  if (!user) return <Navigate to="/login" replace />
 
   return (
     <div className="container-page py-10">

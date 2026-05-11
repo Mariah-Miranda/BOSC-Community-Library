@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Bookmark, BookmarkCheck, Heart } from 'lucide-react'
+import { Heart } from 'lucide-react'
 import { motion } from 'framer-motion'
 import BookCover from './BookCover'
 import Rating from '../UI/Rating'

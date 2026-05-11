@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { Search, SlidersHorizontal, X, Grid3x3, List as ListIcon } from 'lucide-react'
 import { useLibrary } from '../context/LibraryContext'

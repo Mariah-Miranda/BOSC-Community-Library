@@ -14,7 +14,6 @@ import { GENRES } from '../data/books'
 import { events } from '../data/events'
 import BookCard from '../components/Books/BookCard'
 import BookCover from '../components/Books/BookCover'
-import { formatDate } from '../utils/format'
 
 export default function Home() {
   const { books } = useLibrary()
