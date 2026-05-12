@@ -12,27 +12,30 @@
 - Security policy: [SECURITY.md](SECURITY.md)
 - Five-issue portfolio: [ISSUES_AND_PULL_REQUESTS.md](docs/ISSUES_AND_PULL_REQUESTS.md)
 
-## Git Activity Screenshots
+## 1. Git Activity Screenshots
+
+<img width="974" height="185" alt="image" src="https://github.com/user-attachments/assets/e6fe1a5b-0386-4f60-8992-2076392eca30" />
+
+<img width="975" height="357" alt="image" src="https://github.com/user-attachments/assets/4862d8e8-bcea-4afa-900d-7b33048f308d" />
+
+<img width="975" height="927" alt="image" src="https://github.com/user-attachments/assets/d89e448e-a57d-4c73-898c-76ced60d652b" />
 
 
-
-
-### Screenshot 1: Commit History (`git log` or GitHub `Commits` tab)
+#  Commit History 
 
 <img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/cdb42b67-5076-4de0-946b-3b86e4130138" />
 
+#  Branches Used for Issues 
 
-### Screenshot 2: Branches Used for Issues (GitHub `Branches` tab)
+<img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/f37bd34c-7bf7-40a4-8c10-bce2b7ba0265" />
 
-`screenshots/02-branches.png` *(placeholder — replace with image)*
-
-## Resolved Issues Screenshots
+## 2.  Resolved Issues Screenshots
 <img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/968f0d7d-7fd4-4b86-97f3-111b9484a161" />
 
-## Associated PRs
+# Associated PRs
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/a7214543-05c9-4797-82be-06143cf2fcc3" />
 
-## GitHub Contributions Graph
+## 3. GitHub Contributions Graph
 <img width="2224" height="1131" alt="image" src="https://github.com/user-attachments/assets/de564045-d923-4037-8c2a-556376af6f89" />
 
 
