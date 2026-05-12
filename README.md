@@ -25,7 +25,7 @@ The following links are verified starting points for community learning collecti
 
 | Resource | Focus Area | Link |
 | --- | --- | --- |
-| Khan Academy | K-12 mathematics, science, computing, humanities | [Visit Khan Academy](https://www.khanacademy.org/) |
+| Khan Academy | K-12 mathematics, science, computing, humanities | (https://www.khanacademy.org/) |
 | MIT OpenCourseWare | University course materials | [Visit MIT OpenCourseWare](https://ocw.mit.edu/) |
 | African Storybook | African-language literacy and storybooks | [Visit African Storybook](https://www.africanstorybook.org/) |
 | OpenStax | Peer-reviewed textbooks | [Visit OpenStax](https://openstax.org/) |
