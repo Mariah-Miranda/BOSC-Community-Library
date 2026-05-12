@@ -1,11 +1,5 @@
 # Submission Log
 
-Use this file as a portfolio checklist when preparing the final university
-submission. Replace each placeholder with the required screenshot or link.
-Recommended evidence format: PNG or PDF, stored under `screenshots/` and
-referenced with relative Markdown links such as
-`![Commit history](screenshots/01-commit-history.png)`.
-
 ## Repository Information
 
 - Repository name: `BOSC-Community-Library`
@@ -13,10 +7,10 @@ referenced with relative Markdown links such as
 - Main documentation: [README.md](README.md)
 - Legal analysis: [LEGAL_ANALYSIS.md](LEGAL_ANALYSIS.md)
 - Sustainability strategy: [SUSTAINABILITY.md](SUSTAINABILITY.md)
-- Government pitch: [GOVERNMENT_PITCH.md](GOVERNMENT_PITCH.md)
-- Project governance: [GOVERNANCE.md](GOVERNANCE.md)
+- Government pitch: [GOVERNMENT_PITCH.md](docs/GOVERNMENT_PITCH.md)
+- Project governance: [GOVERNANCE.md](docs/GOVERNANCE.md)
 - Security policy: [SECURITY.md](SECURITY.md)
-- Five-issue portfolio: [ISSUES_AND_PULL_REQUESTS.md](ISSUES_AND_PULL_REQUESTS.md)
+- Five-issue portfolio: [ISSUES_AND_PULL_REQUESTS.md](docs/ISSUES_AND_PULL_REQUESTS.md)
 
 ## Git Activity Screenshots
 
