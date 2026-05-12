@@ -91,6 +91,12 @@ npm run preview
     refactor.md
     config.yml
   pull_request_template.md
+docs/
+  CHANGELOG.md
+  GOVERNANCE.md
+  GOVERNMENT_PITCH.md
+  ISSUES_AND_PULL_REQUESTS.md
+  RESOURCE_DATABASE.md
 public/
 src/
   components/
@@ -98,17 +104,12 @@ src/
   data/
   pages/
   utils/
-CHANGELOG.md
 CODE_OF_CONDUCT.md
 CONTRIBUTING.md
-GOVERNANCE.md
-GOVERNMENT_PITCH.md
-ISSUES_AND_PULL_REQUESTS.md
 LANGUAGES.md
 LEGAL_ANALYSIS.md
 LICENSE
 README.md
-RESOURCE_DATABASE.md
 SECURITY.md
 SUBMISSION_LOG.md
 SUSTAINABILITY.md
