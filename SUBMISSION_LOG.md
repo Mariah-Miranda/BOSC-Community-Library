@@ -14,13 +14,15 @@
 
 ## 1. Git Activity Screenshots
 
+<img width="975" height="357" alt="image" src="https://github.com/user-attachments/assets/4862d8e8-bcea-4afa-900d-7b33048f308d" />
+
 <img width="974" height="185" alt="image" src="https://github.com/user-attachments/assets/e6fe1a5b-0386-4f60-8992-2076392eca30" />
 
-<img width="975" height="357" alt="image" src="https://github.com/user-attachments/assets/4862d8e8-bcea-4afa-900d-7b33048f308d" />
+<img width="975" height="233" alt="image" src="https://github.com/user-attachments/assets/a7c4f7c0-b94b-40f4-9024-1fb60ea5e41e" />
 
 <img width="975" height="927" alt="image" src="https://github.com/user-attachments/assets/d89e448e-a57d-4c73-898c-76ced60d652b" />
 
-<img width="975" height="233" alt="image" src="https://github.com/user-attachments/assets/a7c4f7c0-b94b-40f4-9024-1fb60ea5e41e" />
+
 
 
 
