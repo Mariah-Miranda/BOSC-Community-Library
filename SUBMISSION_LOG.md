@@ -41,6 +41,7 @@
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/a7214543-05c9-4797-82be-06143cf2fcc3" />
 
 ## GitHub Contributions Graph
+<img width="2224" height="1131" alt="image" src="https://github.com/user-attachments/assets/de564045-d923-4037-8c2a-556376af6f89" />
 
 
 
