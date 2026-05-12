@@ -31,6 +31,8 @@ The following links are verified starting points for community learning collecti
 | OpenStax | Peer-reviewed textbooks | https://openstax.org/ |
 | PhET Interactive Simulations | Science and mathematics simulations | https://phet.colorado.edu/ |
 
+> Note: All links were verified for accessibility and accuracy in May 2026. Contributors should revalidate links periodically and update the "Last Verified" column.
+
 ## Documentation
 
 - [Contributing Guide](CONTRIBUTING.md)
