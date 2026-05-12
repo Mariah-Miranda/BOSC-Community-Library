@@ -26,18 +26,18 @@
 
 
 
-#  Commit History 
+###  Commit History 
 
 <img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/cdb42b67-5076-4de0-946b-3b86e4130138" />
 
-#  Branches Used for Issues 
+###  Branches Used for Issues 
 
 <img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/f37bd34c-7bf7-40a4-8c10-bce2b7ba0265" />
 
 ## 2.  Resolved Issues Screenshots
 <img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/968f0d7d-7fd4-4b86-97f3-111b9484a161" />
 
-# Associated PRs
+### Associated PRs
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/a7214543-05c9-4797-82be-06143cf2fcc3" />
 
 ## 3. GitHub Contributions Graph
