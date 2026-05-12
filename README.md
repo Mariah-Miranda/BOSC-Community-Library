@@ -5,21 +5,21 @@ BOSC Community Library is a public-sector, open educational resource repository 
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Community Resource Index](#community-resource-index)
-- [Documentation](#documentation)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Demo Accounts](#demo-accounts)
-- [License](#license)
+- [Project Overview](#1-project-overview)
+- [Community Resource Index](#2-community-resource-index)
+- [Documentation](#3-documentation)
+- [Features](#4-features)
+- [Technology Stack](#5-technology-stack)
+- [Getting Started](#6-getting-started)
+- [Project Structure](#7-project-structure)
+- [Demo Accounts](#8-demo-accounts)
+- [License](#9-license)
 
-## Project Overview
+## 1. Project Overview
 
 The project combines a React-based community library prototype with a curated policy and documentation repository for public educational resources. Its governance model emphasizes transparency, civic reuse, contributor accountability, and careful documentation of open licenses.
 
-## Community Resource Index
+## 2. Community Resource Index
 
 The following links are verified starting points for community learning collections. Contributors should prefer stable institutional URLs and avoid placeholder domains.
 
@@ -33,7 +33,7 @@ The following links are verified starting points for community learning collecti
 
 > Note: All links were verified for accessibility and accuracy in May 2026. Contributors should revalidate links periodically and update the "Last Verified" column.
 
-## Documentation
+## 3. Project Documentation & Governance
 
 - [Contributing Guide](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
@@ -48,14 +48,14 @@ The following links are verified starting points for community learning collecti
 - [Changelog](CHANGELOG.md)
 - [Submission Log](SUBMISSION_LOG.md)
 
-## Features
+## 4. Features
 
 - Responsive community library interface for browsing books, events, member profiles, donations, and reviews.
 - Curated educational resource index with stable links and documented license expectations.
 - Contributor workflow templates for bug reports, pull requests, and documentation updates.
 - Public-sector policy documents covering licensing, sustainability, government adoption, and governance reflection.
 
-## Technology Stack
+## 5. Technology Stack
 
 - [React 18](https://react.dev/) and [Vite 5](https://vitejs.dev/)
 - [React Router 6](https://reactrouter.com/)
@@ -64,7 +64,7 @@ The following links are verified starting points for community learning collecti
 - [Lucide React](https://lucide.dev/)
 - Markdown documentation for governance, resource catalogs, and portfolio evidence
 
-## Getting Started
+## 6. Getting Started
 
 ```bash
 npm install
@@ -80,7 +80,7 @@ npm run build
 npm run preview
 ```
 
-## Project Structure
+## 7. Project Structure
 
 ```text
 .github/
@@ -114,12 +114,12 @@ SUBMISSION_LOG.md
 SUSTAINABILITY.md
 ```
 
-## Demo Accounts
+## 8. Demo Accounts
 
 The app uses mock authentication, so any email and password will sign you in. Session data is stored in `localStorage` under the keys `biosc-library-state-v1` and `biosc-theme`.
 
 To reset the app, clear those keys from your browser storage.
 
-## License
+## 9. License
 
 This repository is licensed under the [GNU General Public License v3.0](LICENSE).
