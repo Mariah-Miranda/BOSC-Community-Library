@@ -5,7 +5,7 @@ BOSC Community Library is a public-sector, open educational resource repository 
 
 ## Table of Contents
 
-- [Project Overview](#1.project-overview)
+- [Project Overview](#1-project-overview)
 - [Community Resource Index](#2-community-resource-index)
 - [Documentation](#3-documentation)
 - [Features](#4-features)
