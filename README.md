@@ -37,15 +37,15 @@ The following links are verified starting points for community learning collecti
 
 - [Contributing Guide](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Project Governance](GOVERNANCE.md)
+- [Project Governance](docs/GOVERNANCE.md)
 - [Security and Responsible Disclosure](SECURITY.md)
 - [Legal Analysis](LEGAL_ANALYSIS.md)
 - [Language Support Catalog](LANGUAGES.md)
-- [Resource Database](RESOURCE_DATABASE.md)
-- [Issue and Pull Request Portfolio](ISSUES_AND_PULL_REQUESTS.md)
+- [Resource Database](docs/RESOURCE_DATABASE.md)
+- [Issue and Pull Request Portfolio](docs/ISSUES_AND_PULL_REQUESTS.md)
 - [Sustainability Strategy](SUSTAINABILITY.md)
-- [Government Adoption Pitch](GOVERNMENT_PITCH.md)
-- [Changelog](CHANGELOG.md)
+- [Government Adoption Pitch](docs/GOVERNMENT_PITCH.md)
+- [Changelog](docs/CHANGELOG.md)
 - [Submission Log](SUBMISSION_LOG.md)
 
 ## 4. Features
