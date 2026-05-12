@@ -16,6 +16,7 @@ This table is designed to be searchable in GitHub, editors, and static documenta
 | Global Digital Library | Early Grade Reading | Multilingual | CC BY 4.0 | https://www.digitallibrary.io/ | 2026-05-11 |
 | StoryWeaver | Children's Books | Multilingual | CC BY 4.0 for many stories | https://storyweaver.org.in/ | 2026-05-11 |
 | Skills Commons | Workforce Education | English | Creative Commons licenses vary by item | https://www.skillscommons.org/ | 2026-05-11 |
+| Project Gutenberg | Literature (Public Domain Books) | https://www.gutenberg.org/ | Public Domain |
 
 ## Contributor Schema
 
