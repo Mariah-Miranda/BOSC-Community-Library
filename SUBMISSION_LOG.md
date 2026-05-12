@@ -14,9 +14,13 @@
 
 ## Git Activity Screenshots
 
-> Capture each screenshot from the GitHub web UI after the repository is
-> published so that timestamps, branch labels, and reviewer avatars are
-> visible. Crop tightly but keep the URL bar and date column legible.
+<img width="975" height="398" alt="image" src="https://github.com/user-attachments/assets/e94cb1f3-c562-4c5d-b410-131f4574e42d" />
+<img width="975" height="357" alt="image" src="https://github.com/user-attachments/assets/e4b20afa-17cd-40f6-867b-e31e9609a6d6" />
+<img width="974" height="185" alt="image" src="https://github.com/user-attachments/assets/f5c6a09f-6ccc-4cd0-bd14-c17af7c2a176" />
+<img width="975" height="233" alt="image" src="https://github.com/user-attachments/assets/d19eaf55-d3f5-4b04-902d-9cde463e0b6a" />
+<img width="975" height="927" alt="image" src="https://github.com/user-attachments/assets/007b33b4-bdc0-40a3-9e71-6ca6f860106f" />
+
+
 
 ### Screenshot 1: Commit History (`git log` or GitHub `Commits` tab)
 
@@ -31,38 +35,14 @@
 `screenshots/03-pull-requests.png` *(placeholder — replace with image)*
 
 ## Resolved Issues Screenshots
+<img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/968f0d7d-7fd4-4b86-97f3-111b9484a161" />
 
-> Each screenshot should show: the issue title, at least one comment from the
-> discussion thread, the linked branch, and the merged PR status.
-
-### Issue 1: Broken Resource Links
-
-`screenshots/issue-01-broken-links.png` *(placeholder)*
-
-### Issue 2: README Navigation
-
-`screenshots/issue-02-readme-navigation.png` *(placeholder)*
-
-### Issue 3: Localized Language Support
-
-`screenshots/issue-03-languages.png` *(placeholder)*
-
-### Issue 4: Searchable Resource Database
-
-`screenshots/issue-04-resource-database.png` *(placeholder)*
-
-### Issue 5: Repository Organization
-
-`screenshots/issue-05-docs-refactor.png` *(placeholder)*
-
-### Issue 6 (Bonus): React Runtime Hardening
-
-`screenshots/issue-06-react-fixes.png` *(placeholder)*
+## Associated PRs
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/a7214543-05c9-4797-82be-06143cf2fcc3" />
 
 ## GitHub Contributions Graph
 
-`screenshots/contribution-graph.png` *(placeholder — capture from your
-profile page once commits are distributed across multiple days)*
+
 
 ## Reflective Journal
 
