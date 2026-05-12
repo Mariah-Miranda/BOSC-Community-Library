@@ -8,11 +8,12 @@ BOSC Community Library prioritizes multilingual access because public educationa
 | English | OpenStax Textbooks | https://openstax.org/ | CC BY 4.0 for most books; some CC BY-NC-SA 4.0 |
 | Swahili | Global Digital Library Swahili Collection | https://www.digitallibrary.io/ | CC BY 4.0 |
 | Swahili | African Storybook Swahili Stories | https://www.africanstorybook.org/ | Open Creative Commons licenses vary by story |
-| French | Khan Academy Francais | https://fr.khanacademy.org/ | CC BY-NC-SA for many educational materials |
+| French | Khan Academy Francais | https://fr.khanacademy.org/ | CC BY-NC-SA  (platform-dependent content)  |
 | French | Wikibooks Francais | https://fr.wikibooks.org/ | CC BY-SA 4.0 and GFDL |
-| Arabic | Khan Academy Arabic | https://ar.khanacademy.org/ | CC BY-NC-SA for many educational materials |
+| Arabic | Khan Academy Arabic | https://ar.khanacademy.org/ | CC BY-NC-SA (platform-dependent content) |
 | Arabic | Wikibooks Arabic | https://ar.wikibooks.org/ | CC BY-SA 4.0 and GFDL |
+| Portuguese | Khan Academy Portuguese | https://pt.khanacademy.org/ | CC BY-NC-SA 4.0 |
 
 ## Maintenance Notes
 
-Contributors should verify the license of each specific resource before reuse because some platforms host materials under more than one license. When adding localized resources, include the language, title, stable URL, license, and date verified in [RESOURCE_DATABASE.md](RESOURCE_DATABASE.md).
+Contributors should verify the license of each specific resource before reuse because some platforms host materials under more than one license. When adding localized resources, include the language, title, stable URL, license, and date verified in [RESOURCE_DATABASE.md](RESOURCE_DATABASE.md)  to ensure long-term auditability and public-sector compliance.
