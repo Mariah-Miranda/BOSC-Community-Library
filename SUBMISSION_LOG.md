@@ -5,10 +5,10 @@
 - Repository name: `BOSC-Community-Library`
 - License: GNU General Public License v3.0
 - Main documentation: [README.md](README.md)
+- Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Legal analysis: [LEGAL_ANALYSIS.md](LEGAL_ANALYSIS.md)
 - Sustainability strategy: [SUSTAINABILITY.md](SUSTAINABILITY.md)
-- Government pitch: [GOVERNMENT_PITCH.md](docs/GOVERNMENT_PITCH.md)
-- Project governance: [GOVERNANCE.md](docs/GOVERNANCE.md)
 - Security policy: [SECURITY.md](SECURITY.md)
 - Five-issue portfolio: [ISSUES_AND_PULL_REQUESTS.md](docs/ISSUES_AND_PULL_REQUESTS.md)
 
