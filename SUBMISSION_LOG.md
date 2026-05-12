@@ -14,25 +14,17 @@
 
 ## Git Activity Screenshots
 
-<img width="975" height="398" alt="image" src="https://github.com/user-attachments/assets/e94cb1f3-c562-4c5d-b410-131f4574e42d" />
-<img width="975" height="357" alt="image" src="https://github.com/user-attachments/assets/e4b20afa-17cd-40f6-867b-e31e9609a6d6" />
-<img width="974" height="185" alt="image" src="https://github.com/user-attachments/assets/f5c6a09f-6ccc-4cd0-bd14-c17af7c2a176" />
-<img width="975" height="233" alt="image" src="https://github.com/user-attachments/assets/d19eaf55-d3f5-4b04-902d-9cde463e0b6a" />
-<img width="975" height="927" alt="image" src="https://github.com/user-attachments/assets/007b33b4-bdc0-40a3-9e71-6ca6f860106f" />
 
 
 
 ### Screenshot 1: Commit History (`git log` or GitHub `Commits` tab)
 
-`screenshots/01-commit-history.png` *(placeholder — replace with image)*
+<img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/cdb42b67-5076-4de0-946b-3b86e4130138" />
+
 
 ### Screenshot 2: Branches Used for Issues (GitHub `Branches` tab)
 
 `screenshots/02-branches.png` *(placeholder — replace with image)*
-
-### Screenshot 3: Pull Request List (GitHub `Pull requests` tab, filter `is:closed`)
-
-`screenshots/03-pull-requests.png` *(placeholder — replace with image)*
 
 ## Resolved Issues Screenshots
 <img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/968f0d7d-7fd4-4b86-97f3-111b9484a161" />
